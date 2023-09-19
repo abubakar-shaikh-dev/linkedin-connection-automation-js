@@ -12,8 +12,4 @@ This is a script that automates sending LinkedIn connections
 
 ## 🎨 Customization
 
-You can change the values for constants as per your wish
-
-## Reference gist
-
-https://gist.github.com/bertolo1988/9d285c4ac2b2c10c6026d74a671da9f9
+You can change the values for constants as per your wish after forking
